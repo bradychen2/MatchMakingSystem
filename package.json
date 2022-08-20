@@ -1,0 +1,21 @@
+{
+  "name": "matchingystem",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "decimal.js": "^10.4.0",
+    "typescript": "^4.7.4"
+  },
+  "devDependencies": {
+    "@faker-js/faker": "^7.4.0",
+    "@typescript-eslint/eslint-plugin": "^5.33.1",
+    "@typescript-eslint/parser": "^5.33.1",
+    "eslint": "^8.22.0"
+  }
+}
